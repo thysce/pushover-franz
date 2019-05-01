@@ -1,0 +1,13 @@
+{
+  "id": "pushover",
+  "name": "Pushover",
+  "version": "0.1",
+  "description": "Pushover Web Integration",
+  "main": "index.js",
+  "author": "Trense Online Systems <trenseonline@gmail.com>",
+  "license": "Unlicence",
+  "repository": "https://github.com/thysce/pushover-franz",
+  "config": {
+    "serviceURL": "https://client.pushover.net/"
+  }
+}
